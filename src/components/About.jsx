@@ -13,24 +13,26 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime magnam
-          molestias pariatur reiciendis ipsam, tempore atque labore cum dicta
-          saepe corporis repellendus voluptates corrupti amet eos laboriosam
-          inventore animi iusto sint. Ipsum quam nam accusamus eveniet aperiam
-          quo non fuga blanditiis iste harum libero, neque veritatis unde qui
-          vero? Magnam?
+          I was working as a marketing manager and had to learn a little bit
+          about WordPress to get better marketing results. I learned more and
+          more about web development and the more I learned the more I liked it.
+          Now I'm studying a lot and looking for my first job in the area to
+          change careers and become a web developer.
         </p>
 
         <br />
-
-        <p className="text-xl">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores
-          praesentium, corporis itaque eveniet eligendi provident atque adipisci
-          maxime quia omnis voluptatem quaerat totam ullam, nihil ipsum quasi
-          molestiae quo. Nesciunt inventore voluptates quos dolore sit dolor
-          mollitia voluptatem, officiis pariatur facilis? Sint qui tempora
-          veritatis, maxime voluptates autem animi libero!
-        </p>
+        <div>
+          <a
+            href="/JoseVictorMoraisResume.pdf"
+            download="JoseVictorMoraisResume.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="group text-white w-fit px-6 py-3 my-2 flex item center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
+              Download Resume
+            </button>
+          </a>
+        </div>
       </div>
     </div>
   );

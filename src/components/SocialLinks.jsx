@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/jos%C3%A9-victor-morais-293690175/",
       style: "rounded-tr-md",
     },
     {
@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/jvamresume.pdf",
+      href: "/JoseVictorMoraisResume.pdf",
       style: "rounded-br-md",
       download: true,
     },
