@@ -5,6 +5,7 @@ import github from "../assets/github.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
+import webpack from "../assets/webpack.png";
 
 const Experience = () => {
   const techs = [
@@ -43,6 +44,12 @@ const Experience = () => {
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
+    },
+    {
+      id: 7,
+      src: webpack,
+      title: "Webpack",
+      style: "shadow-blue-500",
     },
   ];
 

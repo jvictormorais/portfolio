@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/jos%C3%A9-victor-morais-293690175/",
+      href: "https://www.linkedin.com/in/jose-victor-morais/",
       style: "rounded-tr-md",
     },
     {

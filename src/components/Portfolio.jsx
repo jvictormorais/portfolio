@@ -56,7 +56,7 @@ const Portfolio = () => {
             >
               click here
             </a>{" "}
-            and go to my github profile
+            and go to my GitHub profile and see all 20+ repos
           </p>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">

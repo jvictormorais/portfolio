@@ -13,11 +13,13 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          I was working as a marketing manager and had to learn a little bit
-          about WordPress to get better marketing results. I learned more and
-          more about web development and the more I learned the more I liked it.
-          Now I'm studying a lot and looking for my first job in the area to
-          change careers and become a web developer.
+          As a React front-end developer, I'm passionate about web development
+          and excited to continue honing my skills in this dynamic and
+          challenging field. My journey began with WordPress, where I discovered
+          a strong affinity for programming and problem-solving. Now, I'm eager
+          to take the next steps in my career and learn more technologies like
+          NodeJS, Redux, TypeScript, and AWS Cloud while keeping improving my
+          React Skills.
         </p>
 
         <br />
